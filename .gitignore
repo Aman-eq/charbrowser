@@ -34,9 +34,6 @@ serverlist_body.tpl
 imagework/
 generateavatar.php
 *.xcf
-templates/custom/*.tpl
-templates/custom/*.css
-templates/custom/*.js
 
 ### cb generated files ###
 .register
